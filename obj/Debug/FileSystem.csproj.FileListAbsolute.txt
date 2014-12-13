@@ -1,0 +1,8 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
